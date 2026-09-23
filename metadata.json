@@ -1,0 +1,7 @@
+{
+  "name": "CreativeTrust Guardian",
+  "description": "Platform pelindung hak cipta digital, pemantauan karya, dan royalti otomatis berbasis kriptografi untuk kreator Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
